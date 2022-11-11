@@ -5,3 +5,8 @@ There are four datasets in total:
 2. Order_details  
 3. Pizzas 
 4. Pizza Types  
+
+Project will have 3 parts :
+1. Data Cleaning done in SQL.
+2. Data Explortion in SQL.
+3. Lastly, Data Visaulization in PowerBi. 
